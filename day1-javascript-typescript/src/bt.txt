@@ -1,0 +1,7 @@
+Form đăng ký - Tài khoản: username, password, email, gender....
+
+class User {
+  .....
+}
+
+Database: array[ ] push <-
