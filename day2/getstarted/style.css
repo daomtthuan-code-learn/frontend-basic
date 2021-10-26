@@ -1,0 +1,33 @@
+/* Bo chon */
+
+#id {
+  color: red;
+}
+
+.class {
+  color: blue;
+}
+
+[name='value'] {
+  color: green;
+}
+
+div {
+  color: orange;
+}
+
+/* nest */
+/*
+ul > li
+*/
+
+ul {
+  color: green;
+}
+
+ul > li {
+  color: white;
+}
+
+ul li {
+}

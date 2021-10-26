@@ -1,0 +1,7 @@
+form -> đăng ký (module typescript)
+  class -> tài khoản
+  (*) form đăng ký -> submit -> tạo động tượng từ class ở trên -> lưu vào mảng -> in ra console cái mảng
+
+thêm style vào form (module scss/sass)
+  handle submit -> validate date (không được trống, ngày hợp lệ,...)
+  dữ liệu hợp lệ -> (*)

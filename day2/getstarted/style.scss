@@ -1,0 +1,34 @@
+/* Bo chon */
+
+#id {
+  color: red;
+}
+
+.class {
+  color: blue;
+}
+
+[name='value'] {
+  color: green;
+}
+
+div {
+  color: orange;
+}
+
+ul {
+  color: green;
+
+  li {
+    color: white;
+  }
+}
+
+$primary-color: blue;
+$font: 'monospace';
+
+.primary {
+  color: $primary-color;
+  font-family: $font;
+  width: 10px + 90px;
+}
